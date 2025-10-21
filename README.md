@@ -1,8 +1,8 @@
-# Data Analyst
+# Data Scientist / Analytics Engineer
 
 ## Technical Skills
-- **Programming Languages & Tools:** Python, R, SQL, MS Excel, MS Power BI
-- **Specializations:** Data Analysis, Data Visualization, Quantitative Analysis, Statistical Analysis, Deep Learning, Machine Learning
+- **Programming Languages & Tools:** Python (pandas, numpy, scikit-learn, matplotlib, streamlit), SQL, Power BI (DAX, Power Query/M), Git/GitHub, Jupyter, Excel (advanced)
+- **Techniques:** Supervised ML, clustering, model monitoring/diagnostics, experiment design & analysis (A/B testing), data modeling, KPI design, data governance
 
 ## Education
 - **MSc in Business Analytics** Esade Business & Law School, Ramon Llull University (_October 2024_)
@@ -63,22 +63,22 @@ The study provided a thorough examination of the healthcare sector in Georgia, a
 ## Professional Experience
 
 **Freelance Data Analyst @ Upwork** (_October 2024 - Present_)
-- Maintained 100% success rate on Upwork by delivering high-quality, impactful results
-- Specialized in data analysis and visualization, developing interactive dashboards and comprehensive reports, and conducting market analysis to inform strategic decisions
-- Collaborated with clients globally, delivering solutions tailored to their business needs
+- Awarded Upwork Top Rated Plus Badge for exceptional performance and maintaining high client satisfaction
+- Maintained 100% success rate by delivering high-quality, impactful results
+- Specialized in automated ETL workflows, interactive BI products, model monitoring routines, and analytics and market research reports to inform strategic decisions
 
 **Research Associate @ Galt and Taggart** (_January 2023 - June 2023_)
-- Provided data-driven insights and consultation on 5+ projects to advisory and portfolio management teams.
-- Mentored two junior analysts, enhancing their skills in data collection, statistical analysis, and report generation.
-- Led training sessions on data visualization techniques and presentation skills for a team of ten researchers.
+-	Provided data-driven advisory on 5+ projects
+-	Mentored two junior analysts, enhancing their skills in data collection, statistical analysis, and report generation
+-	Led training sessions on data analysis and visualization techniques for a team of ten researchers
 
 **Senior Research Analyst @ Galt and Taggart** (_April 2021 - December 2022_)
-- Conducted over ten market studies in healthcare, e-commerce, agriculture, retail, and manufacturing sectors.
-- Communicated study findings at conferences, webinars, and through over 30 media interviews.
-- Prepared over 20 presentations, feasibility studies, and custom research reports influencing strategic decisions for clients across diverse industries.
+-	Delivered 10+ sector studies (healthcare, e-commerce, agriculture, retail, manufacturing), owning the analytics pipeline from data acquisition and cleaning to modeling and final outputs.
+-	Communicated study findings at conferences, webinars and over 30 media interviews (Forbes Georgia, Business Media Georgia, Georgian Public Broadcaster, etc.)
+-	Prepared over 20 feasibility studies and custom research reports, influencing strategic decisions for clients across diverse industries 
 
 **Research Analyst @ Galt and Taggart** (_January 2019 - March 2021_)
-- Published studies on healthcare and education sectors, the latter being the first coverage of the sector in Georgia.
-- Executed market analyses for over 5 feasibility studies and custom research reports delivering actionable insights.
-- Collected, organized, and analyzed datasets in three diverse sectors.
+-	Built and maintained datasets across healthcare and education sectors; 
+-	Executed market analytics for feasibility studies using spreadsheet modeling, statistical methods, and clear visualization.
+
 
